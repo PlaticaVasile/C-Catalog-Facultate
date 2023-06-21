@@ -1,0 +1,60 @@
+D:\unitbv\An II\S2\POO\Examen\Catalog\bin\Debug\net6.0-windows\Catalog.exe
+D:\unitbv\An II\S2\POO\Examen\Catalog\bin\Debug\net6.0-windows\Catalog.deps.json
+D:\unitbv\An II\S2\POO\Examen\Catalog\bin\Debug\net6.0-windows\Catalog.runtimeconfig.json
+D:\unitbv\An II\S2\POO\Examen\Catalog\bin\Debug\net6.0-windows\Catalog.dll
+D:\unitbv\An II\S2\POO\Examen\Catalog\bin\Debug\net6.0-windows\Catalog.pdb
+D:\unitbv\An II\S2\POO\Examen\Catalog\obj\Debug\net6.0-windows\Catalog.csproj.AssemblyReference.cache
+D:\unitbv\An II\S2\POO\Examen\Catalog\obj\Debug\net6.0-windows\Catalog.Form1.resources
+D:\unitbv\An II\S2\POO\Examen\Catalog\obj\Debug\net6.0-windows\Catalog.csproj.GenerateResource.cache
+D:\unitbv\An II\S2\POO\Examen\Catalog\obj\Debug\net6.0-windows\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+D:\unitbv\An II\S2\POO\Examen\Catalog\obj\Debug\net6.0-windows\Catalog.AssemblyInfoInputs.cache
+D:\unitbv\An II\S2\POO\Examen\Catalog\obj\Debug\net6.0-windows\Catalog.AssemblyInfo.cs
+D:\unitbv\An II\S2\POO\Examen\Catalog\obj\Debug\net6.0-windows\Catalog.csproj.CoreCompileInputs.cache
+D:\unitbv\An II\S2\POO\Examen\Catalog\obj\Debug\net6.0-windows\Catalog.dll
+D:\unitbv\An II\S2\POO\Examen\Catalog\obj\Debug\net6.0-windows\refint\Catalog.dll
+D:\unitbv\An II\S2\POO\Examen\Catalog\obj\Debug\net6.0-windows\Catalog.pdb
+D:\unitbv\An II\S2\POO\Examen\Catalog\obj\Debug\net6.0-windows\Catalog.genruntimeconfig.cache
+D:\unitbv\An II\S2\POO\Examen\Catalog\obj\Debug\net6.0-windows\ref\Catalog.dll
+D:\unitbv\An II\S2\POO\Examen\Catalog\obj\Debug\net6.0-windows\Catalog.Properties.Resources.resources
+D:\unitbv\An II\S2\POO\Examen\Catalog\obj\Debug\net6.0-windows\Catalog.Menu.resources
+D:\unitbv\An II\S2\POO\Examen\Catalog\obj\Debug\net6.0-windows\Catalog.ucCassete.resources
+D:\unitbv\An II\S2\POO\Examen\Catalog\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\unitbv\An II\S2\POO\Examen\Catalog\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\unitbv\An II\S2\POO\Examen\Catalog\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\unitbv\An II\S2\POO\Examen\Catalog\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\unitbv\An II\S2\POO\Examen\Catalog\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\unitbv\An II\S2\POO\Examen\Catalog\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\unitbv\An II\S2\POO\Examen\Catalog\obj\Debug\net6.0-windows\Catalog.csproj.CopyComplete
+D:\unitbv\An II\S2\POO\Examen\Catalog\obj\Debug\net6.0-windows\Catalog.ucCicluri.resources
+D:\unitbv\An II\S2\POO\Examen\Catalog\obj\Debug\net6.0-windows\Catalog.ucSpec.resources
+C:\Users\Alexandra\Desktop\Catalog\bin\Debug\net6.0-windows\Catalog.exe
+C:\Users\Alexandra\Desktop\Catalog\bin\Debug\net6.0-windows\Catalog.deps.json
+C:\Users\Alexandra\Desktop\Catalog\bin\Debug\net6.0-windows\Catalog.runtimeconfig.json
+C:\Users\Alexandra\Desktop\Catalog\bin\Debug\net6.0-windows\Catalog.dll
+C:\Users\Alexandra\Desktop\Catalog\bin\Debug\net6.0-windows\Catalog.pdb
+C:\Users\Alexandra\Desktop\Catalog\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Alexandra\Desktop\Catalog\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Alexandra\Desktop\Catalog\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Alexandra\Desktop\Catalog\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Alexandra\Desktop\Catalog\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alexandra\Desktop\Catalog\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alexandra\Desktop\Catalog\obj\Debug\net6.0-windows\Catalog.csproj.AssemblyReference.cache
+C:\Users\Alexandra\Desktop\Catalog\obj\Debug\net6.0-windows\Catalog.Form1.resources
+C:\Users\Alexandra\Desktop\Catalog\obj\Debug\net6.0-windows\Catalog.Menu.resources
+C:\Users\Alexandra\Desktop\Catalog\obj\Debug\net6.0-windows\Catalog.Properties.Resources.resources
+C:\Users\Alexandra\Desktop\Catalog\obj\Debug\net6.0-windows\Catalog.ucCassete.resources
+C:\Users\Alexandra\Desktop\Catalog\obj\Debug\net6.0-windows\Catalog.ucCicluri.resources
+C:\Users\Alexandra\Desktop\Catalog\obj\Debug\net6.0-windows\Catalog.ucSpec.resources
+C:\Users\Alexandra\Desktop\Catalog\obj\Debug\net6.0-windows\Catalog.csproj.GenerateResource.cache
+C:\Users\Alexandra\Desktop\Catalog\obj\Debug\net6.0-windows\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandra\Desktop\Catalog\obj\Debug\net6.0-windows\Catalog.AssemblyInfoInputs.cache
+C:\Users\Alexandra\Desktop\Catalog\obj\Debug\net6.0-windows\Catalog.AssemblyInfo.cs
+C:\Users\Alexandra\Desktop\Catalog\obj\Debug\net6.0-windows\Catalog.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\Catalog\obj\Debug\net6.0-windows\Catalog.csproj.CopyComplete
+C:\Users\Alexandra\Desktop\Catalog\obj\Debug\net6.0-windows\Catalog.dll
+C:\Users\Alexandra\Desktop\Catalog\obj\Debug\net6.0-windows\refint\Catalog.dll
+C:\Users\Alexandra\Desktop\Catalog\obj\Debug\net6.0-windows\Catalog.pdb
+C:\Users\Alexandra\Desktop\Catalog\obj\Debug\net6.0-windows\Catalog.genruntimeconfig.cache
+C:\Users\Alexandra\Desktop\Catalog\obj\Debug\net6.0-windows\ref\Catalog.dll
+C:\Users\Alexandra\Desktop\Catalog\obj\Debug\net6.0-windows\Catalog.ucCadre.resources
+C:\Users\Alexandra\Desktop\Catalog\obj\Debug\net6.0-windows\Catalog.ucStudenti.resources
